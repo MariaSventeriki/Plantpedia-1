@@ -5,4 +5,4 @@ Soon going to be deployed
 
 
 ### Project preview 
-![alt text](http://url/to/plantpediascreenshothpc.png)
+![alt text](url/plantpediascreenshothpc.png)
