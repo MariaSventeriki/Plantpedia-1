@@ -5,4 +5,4 @@ Soon going to be deployed
 
 
 ### Project preview 
-![alt text](https://github.com/[MariaSventeriki]/[Plantpedia-1]/blob/[main]/plantpediascreenshothpc.png?raw=true)
+![Alt text](relative/path/to/img.jpg?raw=true "plantpediascreenshothpc")
