@@ -5,4 +5,4 @@ Soon going to be deployed
 
 
 ### Project preview 
-![Alt text](relative/path/to/img.jpg?raw=true "plantpediascreenshothpc")
+![Alt text](plantpediascreenshothpc.png)
